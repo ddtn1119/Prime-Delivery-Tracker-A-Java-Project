@@ -1,7 +1,4 @@
 // Name: Andy Nguyen
-// NetID: axn210059
-// course: CS 2336.004 - Feng Ranran
-
 // generic Node class for the LinkedList
 // doubly linked list, each node contains 3 data members, link to both the previous node and the next node
 // store values of any data type
