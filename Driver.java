@@ -1,6 +1,4 @@
 // Name: Andy Nguyen
-// NetID: axn210059
-// course: CS 2336.004 - Feng Ranran
 public class Driver implements Comparable<Driver> {
   // comparable class
   // private members of the Driver class
