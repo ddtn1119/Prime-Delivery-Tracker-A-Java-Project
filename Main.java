@@ -1,6 +1,4 @@
 // Name: Andy Nguyen
-// NetID: axn210059
-// course: CS 2336.004 - Feng Ranran
 import java.io.*;
 import java.io.File;
 import java.util.*;
