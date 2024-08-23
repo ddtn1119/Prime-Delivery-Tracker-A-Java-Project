@@ -1,6 +1,4 @@
 // Name: Andy Nguyen
-// NetID: axn210059
-// course: CS 2336.004 - Feng Ranran
 public class LinkedList<T extends Comparable<T>> { // the generic variable is T = type
   // this class is comparable
   // members of the LinkedList class
