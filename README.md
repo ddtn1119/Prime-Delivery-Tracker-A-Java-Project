@@ -1,4 +1,6 @@
-# Prime Delivery Tracker (CS 2336)
+# Prime Delivery Tracker (CS 2336 Fall 2023)
+
+Finished on October 2023.
 
 This program calculates the area of the routes of Amazon Prime drivers from their route coordinates. Linked list is implemented as the database of the drivers and their routes without
 using any pre-defined Java classes. Sorting and searching can be performed on the linked list. 
